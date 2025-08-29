@@ -1,0 +1,149 @@
+.qua1{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+
+}
+.qua2{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.qua3{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.qua4{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.qua5{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.qua6{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.qua7{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.qua8{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.qua9{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.brasil{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+}
+.linha1{
+    width: 2px;
+    background-color: blue;
+    position: absolute;
+    height: 350px;
+    left: 285px;
+}
+.linha2{
+    width: 2px;
+    background-color: blue;
+    position: absolute;
+    height: 350px;
+    left: 135px;
+}
+.linha3{
+    width: 400px;
+    background-color: blue;
+    position: absolute;
+    height: 2px;
+    top: 195px;
+}
+.linha4{
+    width: 400px;
+    background-color: blue;
+    position: absolute;
+    height: 2px;
+    top: 317px;
+}
+.x1{
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.o1{
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.x2{
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.o2{
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.x3{
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.o3{
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+p{
+    margin: 0;
+    height: 80px;
+}
+.linhax{
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    height: 350px;
+    left: 205px;
+}
+h1 {
+  font-weight: bold;
+  background: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
